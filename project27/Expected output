@@ -1,0 +1,4 @@
+Time=20 | Face Match=0 | Door Unlock=0 | Access=0
+Time=30 | Face Match=1 | Door Unlock=1 | Access=1
+Time=40 | Face Match=0 | Door Unlock=0 | Access=0
+Time=50 | Face Match=1 | Door Unlock=1 | Access=1
